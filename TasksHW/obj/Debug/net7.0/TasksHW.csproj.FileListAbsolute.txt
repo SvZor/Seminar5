@@ -1,0 +1,14 @@
+D:\GB\Основной курс\знакомство с языками программирования\Seminar5\TasksHW\bin\Debug\net7.0\TasksHW.exe
+D:\GB\Основной курс\знакомство с языками программирования\Seminar5\TasksHW\bin\Debug\net7.0\TasksHW.deps.json
+D:\GB\Основной курс\знакомство с языками программирования\Seminar5\TasksHW\bin\Debug\net7.0\TasksHW.runtimeconfig.json
+D:\GB\Основной курс\знакомство с языками программирования\Seminar5\TasksHW\bin\Debug\net7.0\TasksHW.dll
+D:\GB\Основной курс\знакомство с языками программирования\Seminar5\TasksHW\bin\Debug\net7.0\TasksHW.pdb
+D:\GB\Основной курс\знакомство с языками программирования\Seminar5\TasksHW\obj\Debug\net7.0\TasksHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Основной курс\знакомство с языками программирования\Seminar5\TasksHW\obj\Debug\net7.0\TasksHW.AssemblyInfoInputs.cache
+D:\GB\Основной курс\знакомство с языками программирования\Seminar5\TasksHW\obj\Debug\net7.0\TasksHW.AssemblyInfo.cs
+D:\GB\Основной курс\знакомство с языками программирования\Seminar5\TasksHW\obj\Debug\net7.0\TasksHW.csproj.CoreCompileInputs.cache
+D:\GB\Основной курс\знакомство с языками программирования\Seminar5\TasksHW\obj\Debug\net7.0\TasksHW.dll
+D:\GB\Основной курс\знакомство с языками программирования\Seminar5\TasksHW\obj\Debug\net7.0\refint\TasksHW.dll
+D:\GB\Основной курс\знакомство с языками программирования\Seminar5\TasksHW\obj\Debug\net7.0\TasksHW.pdb
+D:\GB\Основной курс\знакомство с языками программирования\Seminar5\TasksHW\obj\Debug\net7.0\TasksHW.genruntimeconfig.cache
+D:\GB\Основной курс\знакомство с языками программирования\Seminar5\TasksHW\obj\Debug\net7.0\ref\TasksHW.dll
